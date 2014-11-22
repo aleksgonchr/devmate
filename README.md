@@ -10,7 +10,7 @@ automation tests
 5.	в консоли запустить команду: java -jar selenium-server-standalone-2.xx.xxx.jar
 6.	скачать с репозитория файлы с тестами
 7.	перейти в дерикторию куда скачали файлы с тестами, открыть новую консоль и запустить тесты командой: php codecept.phar run --steps --html
-репорт генерируется в виде html страницы и находиться в папке \tests_output
-скриншоты генерируются в папке \tests_output\debug\
-код тестов находиться в папке \tests\acceptance\ в файлах: DmateSignupCept.php и DmateFeaturesCept.php
+8.	репорт генерируется в виде html страницы и находиться в папке \tests_output
+9.	скриншоты генерируются в папке \tests_output\debug\
+10.	код тестов находиться в папке \tests\acceptance\ в файлах: DmateSignupCept.php и DmateFeaturesCept.php
 
