@@ -2,6 +2,7 @@ devmate
 =======
 automation tests
 Запуск предпологается на OS Windows
+
 1.	предустановленная JDK, и прописан путь в переменной среды
 2.	предустановленный PHP, и прописан путь в переменной среды
 3.	скачать selenium-server-standalone с http://www.seleniumhq.org/download/
